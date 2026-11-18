@@ -1,25 +1,25 @@
 {
   "bundles" : [
     {
-      "downloadBytes" : 12360624,
+      "downloadBytes" : 12358488,
       "files" : [
         {
-          "bytes" : 11565628,
+          "bytes" : 11563044,
           "compression" : "xz",
           "decompressedBytes" : 44662784,
-          "decompressedSha256" : "52ac775474b69ff47511cd04cba90906c06abc93f591fd9f22ab5d49a963b202",
+          "decompressedSha256" : "05a69364864742ecff9157066d99458aefb73ce448203f689d945dcd2698e8d0",
           "pack" : "de-core",
-          "sha256" : "2445310ea660935d55b9d68208f17d02251e085f6099e3e912ae06e26ee0f690",
-          "url" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.0/de-core.sqlite.xz"
+          "sha256" : "094aa7adfb7d0e2374a8c921118be50dadfce333eb99ac09d3d7bdfffbec1fd2",
+          "url" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.1/de-core.sqlite.xz"
         },
         {
-          "bytes" : 794996,
+          "bytes" : 795444,
           "compression" : "xz",
           "decompressedBytes" : 2957312,
-          "decompressedSha256" : "2542b44add8650664e9211d8fd4491716f516844de3d33029765e071c6038af7",
+          "decompressedSha256" : "85bd2d8a2bbbd19dac562f9526835f9f1975b125dfd914b5689e6819ece85c51",
           "pack" : "en-core",
-          "sha256" : "b95fd31dab168f34999f88bd8f7a45a03781e4678f782833bc32b56e6bd88f5d",
-          "url" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.0/en-core.sqlite.xz"
+          "sha256" : "5fe1c9b780d275218c723567212354da1acdc97f8948802d927ce9659781f166",
+          "url" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.1/en-core.sqlite.xz"
         }
       ],
       "id" : "wortschatz",
@@ -29,14 +29,14 @@
           "appliesTo" : [
             "en-core"
           ],
-          "noticeURL" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.0/LICENSES.txt",
+          "noticeURL" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.1/LICENSES.txt",
           "spdx" : "BSD-2-Clause"
         },
         {
           "appliesTo" : [
             "de-core"
           ],
-          "noticeURL" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.0/LICENSES.txt",
+          "noticeURL" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.1/LICENSES.txt",
           "spdx" : "CC-BY-SA-4.0"
         }
       ],
@@ -63,7 +63,7 @@
       "title" : {
         "de" : "Reimlabor Wortschatz"
       },
-      "version" : "2026.11.0"
+      "version" : "2026.11.1"
     }
   ],
   "generatedAt" : "2026-11-18",

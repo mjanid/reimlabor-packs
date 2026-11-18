@@ -1,0 +1,73 @@
+{
+  "bundles" : [
+    {
+      "downloadBytes" : 12360624,
+      "files" : [
+        {
+          "bytes" : 11565628,
+          "compression" : "xz",
+          "decompressedBytes" : 44662784,
+          "decompressedSha256" : "52ac775474b69ff47511cd04cba90906c06abc93f591fd9f22ab5d49a963b202",
+          "pack" : "de-core",
+          "sha256" : "2445310ea660935d55b9d68208f17d02251e085f6099e3e912ae06e26ee0f690",
+          "url" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.0/de-core.sqlite.xz"
+        },
+        {
+          "bytes" : 794996,
+          "compression" : "xz",
+          "decompressedBytes" : 2957312,
+          "decompressedSha256" : "2542b44add8650664e9211d8fd4491716f516844de3d33029765e071c6038af7",
+          "pack" : "en-core",
+          "sha256" : "b95fd31dab168f34999f88bd8f7a45a03781e4678f782833bc32b56e6bd88f5d",
+          "url" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.0/en-core.sqlite.xz"
+        }
+      ],
+      "id" : "wortschatz",
+      "installedBytes" : 47620096,
+      "licences" : [
+        {
+          "appliesTo" : [
+            "en-core"
+          ],
+          "noticeURL" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.0/LICENSES.txt",
+          "spdx" : "BSD-2-Clause"
+        },
+        {
+          "appliesTo" : [
+            "de-core"
+          ],
+          "noticeURL" : "https://mjanid.github.io/reimlabor-packs/releases/2026.11.0/LICENSES.txt",
+          "spdx" : "CC-BY-SA-4.0"
+        }
+      ],
+      "sources" : [
+        {
+          "licence" : "CC-BY-SA-4.0",
+          "name" : "de_dewikt",
+          "snapshot" : "1021fa07108658e4837388229d1e9b3e12a2d88e9a4009fcb548aa3d60daa699",
+          "url" : "https://raw.githubusercontent.com/devio-at/german-ipa-dict/a08113e0ab80f049b625fc360196491f56243ca1/de_dewikt.csv"
+        },
+        {
+          "licence" : "CC-BY-SA-4.0",
+          "name" : "de_full",
+          "snapshot" : "a5fc13f4efaaf70fd9226d11295fd3cd4c2264852ee1fad22c0abaf64acec8dc",
+          "url" : "https://raw.githubusercontent.com/hermitdave/FrequencyWords/525f9b560de45753a5ea01069454e72e9aa541c6/content/2018/de/de_full.txt"
+        },
+        {
+          "licence" : "BSD-2-Clause",
+          "name" : "cmudict",
+          "snapshot" : "75c965a350980dad2d7856f6319a115d22e01b52b1a8c07494d82ae65e3a463c",
+          "url" : "https://github.com/cmusphinx/cmudict"
+        }
+      ],
+      "title" : {
+        "de" : "Reimlabor Wortschatz"
+      },
+      "version" : "2026.11.0"
+    }
+  ],
+  "generatedAt" : "2026-11-18",
+  "lexiconSchema" : 1,
+  "minAppBuild" : 1,
+  "schema" : 1
+}

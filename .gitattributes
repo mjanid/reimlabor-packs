@@ -1,0 +1,5 @@
+# Signed bytes: no line-ending conversion, ever.
+*.json -text
+*.sig -text
+*.txt -text
+*.xz binary
